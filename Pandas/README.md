@@ -10,3 +10,5 @@ It has functions for analyzing, cleaning, exploring, and manipulating data.
 Pandas allows us to analyze big data and make conclusions based on statistical theories.
 Pandas can clean messy data sets, and make them readable and relevant.
 Relevant data is very important in data science.
+
+## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
