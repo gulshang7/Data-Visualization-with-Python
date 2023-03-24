@@ -53,7 +53,7 @@ Pandas is an open-source library that is made mainly for working with relational
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/227609349-8b69bf62-a7dd-4c55-8c4b-cc8527ac8d74.png">
 
-Pandas is an open-source library that is made mainly for working with relational or labeled data both easily and intuitively. It provides various data structures and operations for manipulating numerical data and time series. This library is built on top of the NumPy library. Pandas is fast and it has high performance & productivity for users.
+NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python. It is open-source software.
 
 #### [NumPy Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
 
@@ -61,4 +61,4 @@ Pandas is an open-source library that is made mainly for working with relational
 
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
-### [Pandas Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
+### [NumPy Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
