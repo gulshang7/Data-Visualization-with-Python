@@ -12,10 +12,10 @@ In today’s world, a lot of data is being generated on a daily basis. And somet
 
 Python provides various libraries that come with different features for visualizing data. All these libraries come with different features and can support various types of graphs. In this tutorial, we will be discussing four such libraries.
 
- - Matplotlib
+ - [Matplotlib](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
  - Seaborn
- - NumPy
- - Pandas
+ - [NumPy](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
+ - [Pandas](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
  - Bokeh
  - Plotly
  
