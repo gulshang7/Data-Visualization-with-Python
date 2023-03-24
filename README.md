@@ -19,4 +19,10 @@ Python provides various libraries that come with different features for visualiz
  - Bokeh
  - Plotly
  
+## Quick Overview:
  
+### Matplotlib:
+
+Matplotlib is an easy-to-use, low-level data visualization library that is built on NumPy arrays. It consists of various plots like scatter plot, line plot, histogram, etc. Matplotlib provides a lot of flexibility.
+
+#### [Matplotlib Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
