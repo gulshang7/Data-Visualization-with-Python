@@ -34,7 +34,7 @@ Matplotlib is an easy-to-use, low-level data visualization library that is built
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
 #### [Matplotlib Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Matplotlib)
-
+## 
 ### Pandas:
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/227608520-c5276d5e-c44a-4612-88d2-365df3d47690.png">
@@ -48,7 +48,7 @@ Pandas is an open-source library that is made mainly for working with relational
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
 #### [Pandas Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Pandas)
-
+## 
 ### NumPy:
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/227609349-8b69bf62-a7dd-4c55-8c4b-cc8527ac8d74.png">
