@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/124501309/227700427-0cc6ddc7-98af-463d-a3bf-62ff0e2be956.png)
+
 ## Data Visualization
 
 Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
