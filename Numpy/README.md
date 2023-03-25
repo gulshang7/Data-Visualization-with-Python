@@ -20,6 +20,8 @@ Arrays are very frequently used in data science, where speed and resources are v
 
 ## Some of the codes:
 
+<img src="https://user-images.githubusercontent.com/124501309/227703562-f42e9de7-d6d6-47f9-80d0-35b32d98e5da.jpg" width="800" height="600" />
+
 ### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
