@@ -14,7 +14,9 @@ In the following Data Visualization, I have used Matplotlib and Seaborn for visu
 
 ## Some of the Visualization:
 
-<img src="https://user-images.githubusercontent.com/124501309/227700180-ae5c9235-2c9c-4d16-97b5-244d17b4aa1d.jpg" width="800" height="700" />
+<p align="center">
+  <img width="900" height="700" src="https://user-images.githubusercontent.com/124501309/227700180-ae5c9235-2c9c-4d16-97b5-244d17b4aa1d.jpg">
+</p>
 
 ### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Data%20Visualization/Data%20Visualization.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
