@@ -45,7 +45,7 @@ Pandas is an open-source library that is made mainly for working with relational
 
 #### Some Codes:
 
-![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
+![Picsart_23-03-25_12-41-12-853](https://user-images.githubusercontent.com/124501309/227703480-c5b73112-819c-4ddb-8750-101ed6e4eb26.jpg)
 
 #### [Pandas Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Pandas)
 ## 
@@ -59,6 +59,6 @@ NumPy is a general-purpose array-processing package. It provides a high-performa
 
 #### Some Codes:
 
-![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
+![Picsart_23-03-25_08-40-39-255](https://user-images.githubusercontent.com/124501309/227703426-061478e4-8fd6-428d-8330-8e7f12903a4b.jpg)
 
 #### [NumPy Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
