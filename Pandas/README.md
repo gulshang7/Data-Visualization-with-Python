@@ -13,7 +13,7 @@ Relevant data is very important in data science.
 
 ## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
 
-Some of the Codes:
+## Some of the Codes:
 
 ## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
