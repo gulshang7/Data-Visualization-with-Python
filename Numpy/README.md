@@ -16,3 +16,8 @@ Arrays are very frequently used in data science, where speed and resources are v
 
 ## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
 
+## Some of the codes:
+
+## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
+### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+
