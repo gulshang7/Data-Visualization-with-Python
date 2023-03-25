@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/124501309/227700427-0cc6ddc7-98af-463d-a3bf-62ff0e2be956.png)
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/124501309/227700573-73939c43-9b2c-41ed-ba20-c215eb6687eb.png">
+</p>
 
 ## Data Visualization
 
