@@ -9,7 +9,8 @@ In the following Data Visualization, I have used Matplotlib and Seaborn for visu
 ## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Data%20Visualization/Data%20Visualization.ipynb)
 
 ## Some of the Visualization:
-![Picsart_23-03-24_14-17-27-921](https://user-images.githubusercontent.com/124501309/227700180-ae5c9235-2c9c-4d16-97b5-244d17b4aa1d.jpg)
+
+<img src="https://user-images.githubusercontent.com/124501309/227700180-ae5c9235-2c9c-4d16-97b5-244d17b4aa1d.jpg" width="800" height="700" />
 
 ## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Data%20Visualization/Data%20Visualization.ipynb)
-### ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
