@@ -33,7 +33,7 @@ Matplotlib is an easy-to-use, low-level data visualization library that is built
 
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
-### [Matplotlib Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Matplotlib)
+#### [Matplotlib Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Matplotlib)
 
 ### Pandas:
 
@@ -47,7 +47,7 @@ Pandas is an open-source library that is made mainly for working with relational
 
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
-### [Pandas Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Pandas)
+#### [Pandas Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Pandas)
 
 ### NumPy:
 
@@ -61,4 +61,4 @@ NumPy is a general-purpose array-processing package. It provides a high-performa
 
 ![Picsart_23-03-24_18-36-49-977](https://user-images.githubusercontent.com/124501309/227607923-31f25f72-a6e1-4566-b6e6-a59c0835301e.jpg)
 
-### [NumPy Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
+#### [NumPy Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
