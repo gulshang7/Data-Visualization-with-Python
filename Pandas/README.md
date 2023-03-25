@@ -17,6 +17,10 @@ Relevant data is very important in data science.
 
 ## Some of the Codes:
 
+<p align="center">
+  <img width="900" height="600" src="https://user-images.githubusercontent.com/124501309/227703821-c82bf69b-af26-4111-9a07-0169b541e472.jpg">
+</p>
+
 ### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
