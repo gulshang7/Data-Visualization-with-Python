@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/124501309/227319460-7aeea20b-38fa-41f1-ada9-f50d2e1bd8a2.png">
+  <img width="460" height="200" src="https://user-images.githubusercontent.com/124501309/227319460-7aeea20b-38fa-41f1-ada9-f50d2e1bd8a2.png">
 </p>
 
 # Pandas
