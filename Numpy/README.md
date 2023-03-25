@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/124501309/227306534-f9305be9-e6d0-42e2-8dca-6f07cbc2bf9c.png)
+<p align="center">
+  <img width="460" height="200" src="https://user-images.githubusercontent.com/124501309/227306534-f9305be9-e6d0-42e2-8dca-6f07cbc2bf9c.png">
+</p>
 
 ## NumPy:
 
