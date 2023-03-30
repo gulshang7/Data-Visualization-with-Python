@@ -62,3 +62,17 @@ NumPy is a general-purpose array-processing package. It provides a high-performa
 ![Picsart_23-03-25_08-40-39-255](https://user-images.githubusercontent.com/124501309/227703426-061478e4-8fd6-428d-8330-8e7f12903a4b.jpg)
 
 #### [NumPy Codes](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Numpy)
+##
+### Seaborn:
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/227609349-8b69bf62-a7dd-4c55-8c4b-cc8527ac8d74.png">
+
+Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive. It is built on the top of matplotlib library and also closely integrated to the data structures from pandas. Seaborn aims to make visualization the central part of exploring and understanding data. 
+
+#### [Seaborn Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Seaborn/Seaborn%20library.ipynb)
+
+#### Some Codes:
+
+![Picsart_23-03-25_08-40-39-255](https://user-images.githubusercontent.com/124501309/227703426-061478e4-8fd6-428d-8330-8e7f12903a4b.jpg)
+
+#### [Seaborn Visulaiztion](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Seaborn)
