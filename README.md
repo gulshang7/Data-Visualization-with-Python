@@ -13,7 +13,7 @@ In today’s world, a lot of data is being generated on a daily basis. And somet
 Python provides various libraries that come with different features for visualizing data. All these libraries come with different features and can support various types of graphs. In this tutorial, we will be discussing four such libraries.
 
  - [Matplotlib](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
- - Seaborn
+ - [Seaborn](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Seaborn/Seaborn%20library.ipynb)
  - [NumPy](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
  - [Pandas](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
  - Bokeh
@@ -65,7 +65,7 @@ NumPy is a general-purpose array-processing package. It provides a high-performa
 ##
 ### Seaborn:
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/227609349-8b69bf62-a7dd-4c55-8c4b-cc8527ac8d74.png">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/228828910-cdbbb203-4fcc-48f1-bc18-671bc16f1545.png">
 
 Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive. It is built on the top of matplotlib library and also closely integrated to the data structures from pandas. Seaborn aims to make visualization the central part of exploring and understanding data. 
 
