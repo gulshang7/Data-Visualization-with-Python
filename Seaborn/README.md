@@ -24,6 +24,10 @@ Plots are basically used for visualizing the relationship between variables. Tho
 
 ## Some of the Visualizations:
 
+<p align="center">
+  <img width="900" height="700" src="https://user-images.githubusercontent.com/124501309/229084365-d9f10e25-d302-45f7-9c6e-c4924add98b4.jpg">
+</p>
+
 ### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Seaborn/Seaborn%20library.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
