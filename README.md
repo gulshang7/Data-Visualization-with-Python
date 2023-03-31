@@ -65,7 +65,7 @@ NumPy is a general-purpose array-processing package. It provides a high-performa
 ##
 ### Seaborn:
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/228828910-cdbbb203-4fcc-48f1-bc18-671bc16f1545.png">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/229115356-8fc083b5-a5af-4069-8e23-abeccb349069.jpg">
 
 Seaborn is an amazing visualization library for statistical graphics plotting in Python. It provides beautiful default styles and color palettes to make statistical plots more attractive. It is built on the top of matplotlib library and also closely integrated to the data structures from pandas. Seaborn aims to make visualization the central part of exploring and understanding data. 
 
@@ -79,7 +79,7 @@ Seaborn is an amazing visualization library for statistical graphics plotting in
 ##
 ### Plotly:
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/229113305-5ec4d2b7-3974-4112-a98b-796742b6ebaa.png">
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/229114833-791fc552-1ded-4d55-992d-fa3573ab6849.jpg">
 
 The Plotly Python library is an interactive open-source library. This can be a very helpful tool for data visualization and understanding the data simply and easily. plotly graph objects are a high-level interface to plotly which are easy to use. It can plot various types of graphs and charts like scatter plots, line charts, bar charts, box plots, histograms, pie charts, etc.
 
