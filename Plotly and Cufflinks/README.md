@@ -7,7 +7,7 @@ The Plotly Python library is an interactive open-source library. This can be a v
 
 cufflink connects plotly with pandas to create graphs and charts of dataframes directly. choropleth is used to describe geographical plotting of USA. choropleth is used in the plotting of world maps and many more.
 
-## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
+## [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
 
 ## Some of the Visualizations:
 
@@ -15,7 +15,7 @@ cufflink connects plotly with pandas to create graphs and charts of dataframes d
   <img width="900" height="700" src="https://user-images.githubusercontent.com/124501309/229116743-e8f728e8-4b0f-4037-b64e-d5b73a4f147a.jpg">
 </p>
 
-### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
+### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
 ## My Other Projects:
