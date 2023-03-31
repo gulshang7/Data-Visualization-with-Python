@@ -76,3 +76,17 @@ Seaborn is an amazing visualization library for statistical graphics plotting in
 ![Picsart_23-03-31_13-32-06-061](https://user-images.githubusercontent.com/124501309/229083846-d913cf85-02d6-4073-9557-f31460c1ffbc.jpg)
 
 #### [Seaborn Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Seaborn)
+##
+### Plotly:
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124501309/228828910-cdbbb203-4fcc-48f1-bc18-671bc16f1545.png">
+
+The Plotly Python library is an interactive open-source library. This can be a very helpful tool for data visualization and understanding the data simply and easily. plotly graph objects are a high-level interface to plotly which are easy to use. It can plot various types of graphs and charts like scatter plots, line charts, bar charts, box plots, histograms, pie charts, etc.
+
+#### [Plotly Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Seaborn/Seaborn%20library.ipynb)
+
+#### Some Visualizations:
+
+![Picsart_23-03-31_17-14-29-646](https://user-images.githubusercontent.com/124501309/229112444-85182da8-64b7-4234-9513-3f5a76f78f26.jpg)
+
+#### [Plotly Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Seaborn)
