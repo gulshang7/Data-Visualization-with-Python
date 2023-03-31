@@ -71,8 +71,8 @@ Seaborn is an amazing visualization library for statistical graphics plotting in
 
 #### [Seaborn Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Seaborn/Seaborn%20library.ipynb)
 
-#### Some Codes:
+#### Some Visualizations:
 
-![Picsart_23-03-25_08-40-39-255](https://user-images.githubusercontent.com/124501309/227703426-061478e4-8fd6-428d-8330-8e7f12903a4b.jpg)
+![Picsart_23-03-31_13-32-06-061](https://user-images.githubusercontent.com/124501309/229083846-d913cf85-02d6-4073-9557-f31460c1ffbc.jpg)
 
 #### [Seaborn Visualization](https://github.com/gulshang7/Data-Visualization-with-Python/tree/main/Seaborn)
