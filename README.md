@@ -17,7 +17,7 @@ Python provides various libraries that come with different features for visualiz
  - [NumPy](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Numpy/NumPy%20Library.ipynb)
  - [Pandas](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Pandas/Pandas%20library.ipynb)
  - Bokeh
- - Plotly
+ - [Plotly](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Plotly%20and%20Cufflinks/Plotly%20and%20Cufflinks.ipynb)
  
 ## Quick Overview:
  
